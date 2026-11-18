@@ -1,4 +1,5 @@
-<div align="center">Inventory Management System
+<div align="center">
+Inventory Management System
 A backend application for managing products, monitoring stock levels, processing stock changes, and generating inventory reports.
 
 Built with Node.js · Express.js · MongoDB · Mongoose
