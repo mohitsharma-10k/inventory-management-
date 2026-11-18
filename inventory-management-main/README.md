@@ -63,7 +63,7 @@ inventory-management-system/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/aradhana-bit/inventory-management-system.git
+git clone https://github.com/mohitsharma-10k/inventory-management-
 cd inventory-management-system
 ```
 
