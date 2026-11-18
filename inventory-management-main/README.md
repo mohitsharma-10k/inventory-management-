@@ -1,11 +1,7 @@
-<div align="center">
+<div align="center">Inventory Management System
+A backend application for managing products, monitoring stock levels, processing stock changes, and generating inventory reports.
 
-# Inventory Management System
-
-A RESTful backend for managing products, stock operations, and inventory reports.
-
-**Node.js · Express.js · MongoDB · Mongoose**
-
+Built with Node.js · Express.js · MongoDB · Mongoose
 </div>
 
 ---
@@ -336,6 +332,6 @@ The API was tested using Postman. The screenshots below show the requests and re
 
 | | |
 |---|---|
-| **Submitted by** | Anish kumar jha |
-| **Roll number** | 2501010273 |
+| **Submitted by** | mohit sharma |
+| **Roll number** | 2501010091 |
 | **Assignment** | Web Development III – Assignment 3 |
